@@ -1,3 +1,8 @@
+# reference
+- https://rakibul.net/django-celery-1
+- https://rakibul.net/django-celery-2
+-----------------------------------------------
+
 # mycelery
 Django asynchronous task example using Celery and RabbitMQ.
 

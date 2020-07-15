@@ -1,0 +1,2 @@
+#!/bin/bash
+celery -A mycelery worker --workdir ../mycelery -l info
